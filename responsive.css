@@ -1,0 +1,17 @@
+@media (max-width: 766px) {
+  .dog-image {
+    width: 100%;
+    text-align: center;
+  }
+  .dog-title {
+    margin-top: 40px;
+    width: 100% !important;
+  }
+  .dog-title h1 {
+    width: 100%;
+    font-size: 20px;
+    max-width: auto;
+    /* margin-left: 60px; */
+    color: whitesmoke;
+  }
+}
